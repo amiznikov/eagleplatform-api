@@ -26,6 +26,7 @@ To use methods just call them as regular methods of `player` object: `player.pla
 
 * `hideSkin` - hides the skin
 * `showSkin` - shows the skin back again after hiding
+* `size` - sets new size player, example size(width, height)
 
 ### Sizes
 
